@@ -4,7 +4,7 @@
 ###this minus in yaml indicate a list of items. the play contains a list of play
   hosts: all
   vars:
-    tomcat_download_url: https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.64/bin/apache-tomcat-9.0.65.tar.gz
+    tomcat_download_url: https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.65/bin/apache-tomcat-9.0.65.tar.gz
     tomcat_download_location: /usr/share/tomcat/apache-tomcat-9.0.65.tar.gz
   
   tasks:
